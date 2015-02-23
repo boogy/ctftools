@@ -8,5 +8,10 @@
 	objcopy -O binary shellcode64.o shellcode
 	rm shellcode64.o
 
+arm: shellcode_arm.asm
+	nasm -f elf shellcode_arm.asm
+	objcopy -O binary shellcode_arm.o shellcode_arm
+	rm shellcode_arm.o
+
 clean:
-	rm shellcode
+	rm shellcode*
