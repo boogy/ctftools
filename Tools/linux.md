@@ -7,7 +7,7 @@ A list of tools for linux operating sytems that can be used in ctfs.
 
 
 ## STATIC ANALYSIS TOOLS
-1. [hexedit](http://linux.die.net/man/1/hexedit)
+1. [hexedit](http://www.hexedit.com/)
 
 ## DYNAMIC ANALYSIS TOOLS
 1. [qira] (https://github.com/BinaryAnalysisPlatform/qira)
