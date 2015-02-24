@@ -1,7 +1,7 @@
 Linux tools for ctfs
 ========================
 
-A list of tools for windows operating system that can be used in ctfs.
+A list of tools for linux operating system that can be used in ctfs.
 
 ## ONLINE ANALYZERS
 1. [crypo](http://www.crypo.com/)
