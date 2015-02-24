@@ -31,7 +31,10 @@ A list of tools for linux operating system that can be used in ctfs.
 
 
 ## NETRORKING
-1. [NONE]()
+1. [dsniff](http://monkey.org/~dugsong/dsniff/)
+2. [ettercap](http://ettercap.github.io/ettercap/)
+3. [namp](http://nmap.org/)
+4. [nessus](http://www.tenable.com/products/nessus-vulnerability-scanner)
 
 ## STEGANOGRAPHY
 1. [OpenStego](http://www.openstego.info/)
