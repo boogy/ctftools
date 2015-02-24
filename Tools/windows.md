@@ -13,7 +13,7 @@ A list of tools for windows operating system that can be used in ctfs.
 1. [GDB](http://www.gnu.org/software/gdb/download/)
 
 ## REVERSE ENGINEERING
-
+1. [IDA Pro](https://www.hex-rays.com/products/ida/support/download.shtml)
 
 ## MISC TOOLS/READINGS
 
