@@ -4,9 +4,9 @@ Linux tools for ctfs
 A list of tools for windows operating system that can be used in ctfs.
 
 ## ONLINE ANALYZERS
-[crypo](http://www.crypo.com/)
-[cryptool-online](http://www.cryptool-online.org/)
-[rumkin.com](http://rumkin.com/tools/cipher/)
+1. [crypo](http://www.crypo.com/)
+2. [cryptool-online](http://www.cryptool-online.org/)
+3. [rumkin.com](http://rumkin.com/tools/cipher/)
 
 ## STATIC ANALYSIS TOOLS
 1. [hexedit](http://www.hexedit.com)
@@ -30,39 +30,39 @@ A list of tools for windows operating system that can be used in ctfs.
 
 
 ## STEGANOGRAPHY
-[OpenStego](http://www.openstego.info/)
-[OutGuess](http://www.outguess.org/download.php)
-[SilentEye](http://www.silenteye.org/download.html)
-[Steghide](http://steghide.sourceforge.net/download.php)
-[StegFS](http://sourceforge.net/projects/stegfs/)
-[pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html)
-[GIMP](http://www.gimp.org/downloads/)
-[Audacity](http://audacity.sourceforge.net/download/)
-[MP3Stego](http://www.petitcolas.net/steganography/mp3stego/)
-[ffmpeg](https://www.ffmpeg.org/download.html)
+1. [OpenStego](http://www.openstego.info/)
+2. [OutGuess](http://www.outguess.org/download.php)
+3. [SilentEye](http://www.silenteye.org/download.html)
+4. [Steghide](http://steghide.sourceforge.net/download.php)
+5. [StegFS](http://sourceforge.net/projects/stegfs/)
+6. [pngcheck](http://www.libpng.org/pub/png/apps/pngcheck.html)
+7. [GIMP](http://www.gimp.org/downloads/)
+8. [Audacity](http://audacity.sourceforge.net/download/)
+9. [MP3Stego](http://www.petitcolas.net/steganography/mp3stego/)
+10. [ffmpeg](https://www.ffmpeg.org/download.html)
 
 
 ## FORENSICS:
-dd - unix/linux tool
-strings - unix/linux tool
-[scalpel](https://github.com/sleuthkit/scalpel)
-[TrID](http://mark0.net/soft-trid-e.html)
-[binwalk](http://binwalk.org/)
-[foremost](http://foremost.sourceforge.net/)
-[ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
-[Digital Forensics Framework (DFF)](http://www.digital-forensic.org/download/)
-[Computer Aided INvestigative Environment (CAINE) Linux forensics live distribution](http://www.caine-live.net/)
-[The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/download.php)
-[Volatility](http://code.google.com/p/volatility/)
+1. dd - unix/linux tool
+2. strings - unix/linux tool
+3. [scalpel](https://github.com/sleuthkit/scalpel)
+4. [TrID](http://mark0.net/soft-trid-e.html)
+5. [binwalk](http://binwalk.org/)
+6. [foremost](http://foremost.sourceforge.net/)
+7. [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
+8. [Digital Forensics Framework (DFF)](http://www.digital-forensic.org/download/)
+9. [Computer Aided INvestigative Environment (CAINE) Linux forensics live distribution](http://www.caine-live.net/)
+10. [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/download.php)
+11. [Volatility](http://code.google.com/p/volatility/)
 
 
 ## CRYPTO:
-[Cryptool](https://www.cryptool.org/)
-[hashpump](https://github.com/bwall/HashPump)
-[Sage](http://www.sagemath.org/)
-[John the Ripper](http://www.openwall.com/john/)
-[xortool](https://github.com/hellman/xortool)
-[Modules for python - pycrypto](https://www.dlitz.net/software/pycrypto/)
+1. [Cryptool](https://www.cryptool.org/)
+2. [hashpump](https://github.com/bwall/HashPump)
+3. [Sage](http://www.sagemath.org/)
+4. [John the Ripper](http://www.openwall.com/john/)
+5. [xortool](https://github.com/hellman/xortool)
+6. [Modules for python - pycrypto](https://www.dlitz.net/software/pycrypto/)
 
 
 ## MISC TOOLS/READINGS
