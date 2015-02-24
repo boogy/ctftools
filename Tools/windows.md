@@ -10,7 +10,7 @@ A list of tools for windows operating system that can be used in ctfs.
 1. [hexedit](http://www.hexedit.com)
 
 ## DYNAMIC ANALYSIS TOOLS
-
+1. [GDB](http://www.gnu.org/software/gdb/download/)
 
 ## REVERSE ENGINEERING
 
