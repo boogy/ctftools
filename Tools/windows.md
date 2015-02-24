@@ -39,7 +39,7 @@ A list of tools for windows operating system that can be used in ctfs.
 [GIMP](http://www.gimp.org/downloads/)
 [Audacity](http://audacity.sourceforge.net/download/)
 [MP3Stego](http://www.petitcolas.net/steganography/mp3stego/)
-[ffmpeg](https://www.ffmpeg.org/download.html)(for video analysis)
+[ffmpeg](https://www.ffmpeg.org/download.html)
 
 
 ## FORENSICS:
