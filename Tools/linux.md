@@ -70,6 +70,7 @@ A list of tools for linux operating system that can be used in ctfs.
 4. [John the Ripper](http://www.openwall.com/john/)
 5. [xortool](https://github.com/hellman/xortool)
 6. [Modules for python - pycrypto](https://www.dlitz.net/software/pycrypto/)
+7. [fcrackzip](http://software.schmorp.de/pkg/fcrackzip.html)
 
 
 ## MISC TOOLS/READINGS
