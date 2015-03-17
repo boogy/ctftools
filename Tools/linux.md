@@ -75,6 +75,7 @@ A list of tools for linux operating system that can be used in ctfs.
 
 ## MISC TOOLS/READINGS
 1. [pwntools](https://github.com/Gallopsled/pwntools) *python module*
+2. [Try Out Decompilation In Your Browser](https://retdec.com/decompilation/)
 
 # Contributing
 Your contributions are always welcome!
