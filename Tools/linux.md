@@ -12,6 +12,7 @@ A list of tools for linux operating system that can be used in ctfs.
 ## STATIC ANALYSIS TOOLS
 1. [hexedit](http://www.hexedit.com)
 2. [wxHexEditor](http://www.wxhexeditor.org/download.php)
+3. [Free Online Flash Decoder / Decompiler](http://www.showmycode.com/)
 
 
 ## DYNAMIC ANALYSIS TOOLS
