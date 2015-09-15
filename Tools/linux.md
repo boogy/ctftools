@@ -72,7 +72,11 @@ A list of tools for linux operating system that can be used in ctfs.
 5. [xortool](https://github.com/hellman/xortool)
 6. [Modules for python - pycrypto](https://www.dlitz.net/software/pycrypto/)
 7. [fcrackzip](http://software.schmorp.de/pkg/fcrackzip.html)
+8. [cribdrag](https://github.com/SpiderLabs/cribdrag)
+ 
 
+## WEB
+1. [BurpSuite](https://portswigger.net/burp/)
 
 ## MISC TOOLS/READINGS
 1. [pwntools](https://github.com/Gallopsled/pwntools) *python module*
