@@ -21,7 +21,7 @@ A list of tools for windows operating system that can be used in ctfs.
 6. [uncompyle2](https://github.com/wibiti/uncompyle2)
 
 
-## NETRORKING
+## NETWORKING
 
 
 ## STEGANOGRAPHY
@@ -37,7 +37,7 @@ A list of tools for windows operating system that can be used in ctfs.
 
 
 ## MISC TOOLS/READINGS
-
+1. [Peinjector] (https://github.com/JonDoNym/peinjector) auto-patch PE binaries that comes around. 
 
 # Contributing
 Your contributions are always welcome!
