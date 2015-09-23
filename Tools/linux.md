@@ -29,9 +29,10 @@ A list of tools for linux operating system that can be used in ctfs.
 4. [FFDec](http://www.free-decompiler.com/flash/download.html)
 5. [dex2jar](http://code.google.com/p/dex2jar/)
 6. [uncompyle2](https://github.com/wibiti/uncompyle2)
+7. [swfScan](http://h30499.www3.hp.com/t5/SWFScan/SWFSCAN/m-p/6692476#M46) A flash reverser
 
 
-## NETRORKING
+## NETWORKING
 1. [dsniff](http://monkey.org/~dugsong/dsniff/)
 2. [ettercap](http://ettercap.github.io/ettercap/)
 3. [namp](http://nmap.org/)
