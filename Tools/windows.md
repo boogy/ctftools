@@ -19,6 +19,7 @@ A list of tools for windows operating system that can be used in ctfs.
 3. [JD-GUI](http://jd.benow.ca/#jd-gui-overview)
 5. [dex2jar](http://code.google.com/p/dex2jar/)
 6. [uncompyle2](https://github.com/wibiti/uncompyle2)
+7. [pescan] (https://tzworks.net/prototype_page.php?proto_id=15)
 
 
 ## NETWORKING
