@@ -40,7 +40,7 @@ A list of tools for windows operating system that can be used in ctfs.
 ## MISC TOOLS/READINGS
 1. [Peinjector] (https://github.com/JonDoNym/peinjector) auto-patch PE binaries that comes around.  
 2. [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) A set of powershell tools for penetration testers.  
-3.[PentestBox] (https://pentestbox.com/) PentestBox is a Portable Penetration Testing Distribution for Windows Environments  
-
+3. [PentestBox] (https://pentestbox.com/) PentestBox is a Portable Penetration Testing Distribution for Windows Environments  
+4. [Veil framework] (https://www.veil-framework.com/) Veil is a framework used to obfuscate code , comes handi when using for exemple metasploit venom
 # Contributing
 Your contributions are always welcome!
