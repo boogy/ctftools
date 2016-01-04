@@ -33,7 +33,7 @@ A list of tools for linux operating system that can be used in ctfs.
 6. [uncompyle2](https://github.com/wibiti/uncompyle2)
 7. [apktool] (http://ibotpeaches.github.io/Apktool/)
 8. [swfScan](http://h30499.www3.hp.com/t5/SWFScan/SWFSCAN/m-p/6692476#M46) A flash reverser
-9. [angr](https://github.com/angr/angr) is a platform-agnostic binary analysis framework
+9. [angr](https://github.com/angr/angr) is a platform-agnostic binary analysis framework [documentation here](https://github.com/angr/angr-doc)
 
 ## NETWORKING
 1. [dsniff](http://monkey.org/~dugsong/dsniff/) dsniff is a collection of tools for network auditing and penetration testing.
