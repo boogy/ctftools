@@ -85,6 +85,7 @@ A list of tools for linux operating system that can be used in ctfs.
 2. [Try Out Decompilation In Your Browser](https://retdec.com/decompilation/)
 3. [Collection of IDA plugins written to help with RE work](https://github.com/devttys0/ida/tree/master/plugins)
 4. [preeny, helpers for CTF nubz](https://github.com/boogy/preeny)
-5. 
-# Contributing
+5. [Some setup scripts for security research tools.](https://github.com/zardus/ctf-tools)
+ 
+## Contributing
 Your contributions are always welcome!
