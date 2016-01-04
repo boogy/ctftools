@@ -7,6 +7,7 @@ A list of tools for linux operating system that can be used in ctfs.
 1. [crypo](http://www.crypo.com/)
 2. [cryptool-online](http://www.cryptool-online.org/)
 3. [rumkin.com](http://rumkin.com/tools/cipher/)
+4. [dcode.fr](http://www.dcode.fr/)
 
 
 ## STATIC ANALYSIS TOOLS
