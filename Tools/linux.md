@@ -26,7 +26,6 @@ A list of tools for linux operating system that can be used in ctfs.
 ## REVERSE ENGINEERING
 1. [IDA Pro](https://www.hex-rays.com/products/ida/support/download.shtml)
 2. [radare2](http://www.radare.org/y/?p=download)
-<<<<<<< HEAD
 3. [JD-GUI](http://jd.benow.ca/#jd-gui-overview)
 4. [FFDec](http://www.free-decompiler.com/flash/download.html)
 5. [dex2jar](http://code.google.com/p/dex2jar/)
@@ -38,7 +37,6 @@ A list of tools for linux operating system that can be used in ctfs.
 1. [dsniff](http://monkey.org/~dugsong/dsniff/)
 2. [ettercap](http://ettercap.github.io/ettercap/)
 3. [namp](http://nmap.org/)
-=======
 3. [JD-GUI](http://jd.benow.ca/#jd-gui-overview) 
 4. [FFDec](http://www.free-decompiler.com/flash/download.html) 
 5. [dex2jar](http://code.google.com/p/dex2jar/) Android decompiler
@@ -49,7 +47,6 @@ A list of tools for linux operating system that can be used in ctfs.
 1. [dsniff](http://monkey.org/~dugsong/dsniff/) dsniff is a collection of tools for network auditing and penetration testing.
 2. [ettercap](http://ettercap.github.io/ettercap/) Ettercap is a comprehensive suite for man in the middle attacks.
 3. [nmap](http://nmap.org/)
->>>>>>> 426583db5d5d69e4c4e2f50a17f1c4ff63d80981
 4. [nessus](http://www.tenable.com/products/nessus-vulnerability-scanner)
 5. [Wireshark](https://www.wireshark.org/) 
 6. [Scapy] (http://secdev.org/projects/scapy/)
