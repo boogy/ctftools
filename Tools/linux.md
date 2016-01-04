@@ -26,6 +26,7 @@ A list of tools for linux operating system that can be used in ctfs.
 ## REVERSE ENGINEERING
 1. [IDA Pro](https://www.hex-rays.com/products/ida/support/download.shtml)
 2. [radare2](http://www.radare.org/y/?p=download)
+<<<<<<< HEAD
 3. [JD-GUI](http://jd.benow.ca/#jd-gui-overview)
 4. [FFDec](http://www.free-decompiler.com/flash/download.html)
 5. [dex2jar](http://code.google.com/p/dex2jar/)
@@ -37,7 +38,21 @@ A list of tools for linux operating system that can be used in ctfs.
 1. [dsniff](http://monkey.org/~dugsong/dsniff/)
 2. [ettercap](http://ettercap.github.io/ettercap/)
 3. [namp](http://nmap.org/)
+=======
+3. [JD-GUI](http://jd.benow.ca/#jd-gui-overview) 
+4. [FFDec](http://www.free-decompiler.com/flash/download.html) 
+5. [dex2jar](http://code.google.com/p/dex2jar/) Android decompiler
+6. [uncompyle2](https://github.com/wibiti/uncompyle2) Python bytecode decompiler
+
+
+## NETRORKING
+1. [dsniff](http://monkey.org/~dugsong/dsniff/) dsniff is a collection of tools for network auditing and penetration testing.
+2. [ettercap](http://ettercap.github.io/ettercap/) Ettercap is a comprehensive suite for man in the middle attacks.
+3. [nmap](http://nmap.org/)
+>>>>>>> 426583db5d5d69e4c4e2f50a17f1c4ff63d80981
 4. [nessus](http://www.tenable.com/products/nessus-vulnerability-scanner)
+5. [Wireshark](https://www.wireshark.org/) 
+6. [Scapy] (http://secdev.org/projects/scapy/)
 
 ## STEGANOGRAPHY
 1. [OpenStego](http://www.openstego.info/)
@@ -50,6 +65,8 @@ A list of tools for linux operating system that can be used in ctfs.
 8. [Audacity](http://audacity.sourceforge.net/download/)
 9. [MP3Stego](http://www.petitcolas.net/steganography/mp3stego/)
 10. [ffmpeg](https://www.ffmpeg.org/download.html)
+11. [stepic](http://domnit.org/stepic/doc/)
+12. [atomicparsley](http://atomicparsley.sourceforge.net/)
 
 
 ## FORENSICS:
@@ -60,10 +77,12 @@ A list of tools for linux operating system that can be used in ctfs.
 5. [binwalk](http://binwalk.org/)
 6. [foremost](http://foremost.sourceforge.net/)
 7. [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
-8. [Digital Forensics Framework (DFF)](http://www.digital-forensic.org/download/)
-9. [Computer Aided INvestigative Environment (CAINE) Linux forensics live distribution](http://www.caine-live.net/)
-10. [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/download.php)
-11. [Volatility](http://code.google.com/p/volatility/)
+8. [Digital Forensics Framework (DFF)](http://www.digital-forensic.org/download/) 
+9. [Computer Aided INvestigative Environment (CAINE) Linux forensics live distribution](http://www.caine-live.net/) Computer Aided INvestigative Environment is a Live GNU/Linux distribution which is aimed for digital forensics
+10. [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/download.php) open source digital forensics tool
+11. [Volatility](http://code.google.com/p/volatility/) a memory dump analysis tool
+12. [ExifTool] (http://www.sno.phy.queensu.ca/~phil/exiftool/) a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of file formats 
+13. [DEFT Linux] (http://www.deftlinux.net/) Digital Evidence & Forensics Toolkit Linux distribution
 
 
 ## CRYPTO:
@@ -78,7 +97,11 @@ A list of tools for linux operating system that can be used in ctfs.
  
 
 ## WEB
-1. [BurpSuite](https://portswigger.net/burp/)
+1. [BurpSuite](https://portswigger.net/burp/) An advanced html request manipulator
+2. [nikto] (https://cirt.net/nikto2) a web scanner
+3. [WPScan] (http://wpscan.org/) a wordpress scanner.
+4. [Bizploit] (http://net-security.org/secworld.php?id=9354)  open source ERP penetration testing framework
+5. [Captipper] (https://github.com/omriher/CapTipper) CapTipper is a python tool to analyze, explore and revive HTTP malicious traffic.
 
 ## MISC TOOLS/READINGS
 1. [pwntools](https://github.com/Gallopsled/pwntools) *python module*
