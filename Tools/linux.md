@@ -33,19 +33,9 @@ A list of tools for linux operating system that can be used in ctfs.
 6. [uncompyle2](https://github.com/wibiti/uncompyle2)
 7. [apktool] (http://ibotpeaches.github.io/Apktool/)
 8. [swfScan](http://h30499.www3.hp.com/t5/SWFScan/SWFSCAN/m-p/6692476#M46) A flash reverser
-
+9. [angr](https://github.com/angr/angr) is a platform-agnostic binary analysis framework
 
 ## NETWORKING
-1. [dsniff](http://monkey.org/~dugsong/dsniff/)
-2. [ettercap](http://ettercap.github.io/ettercap/)
-3. [namp](http://nmap.org/)
-3. [JD-GUI](http://jd.benow.ca/#jd-gui-overview) 
-4. [FFDec](http://www.free-decompiler.com/flash/download.html) 
-5. [dex2jar](http://code.google.com/p/dex2jar/) Android decompiler
-6. [uncompyle2](https://github.com/wibiti/uncompyle2) Python bytecode decompiler
-
-
-## NETRORKING
 1. [dsniff](http://monkey.org/~dugsong/dsniff/) dsniff is a collection of tools for network auditing and penetration testing.
 2. [ettercap](http://ettercap.github.io/ettercap/) Ettercap is a comprehensive suite for man in the middle attacks.
 3. [nmap](http://nmap.org/)
