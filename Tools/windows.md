@@ -12,6 +12,7 @@ A list of tools for windows operating system that can be used in ctfs.
 1. [Immunity Debugger](http://debugger.immunityinc.com/)
 2. [OllyDbg ](http://www.ollydbg.de/)
 3. [IDA Pro](https://www.hex-rays.com/products/ida/support/download.shtml)
+4. [windbg-plugin-villoc](https://github.com/sam-b/windbg-plugins) Heap visualisation plugin for WinDbg
 
 
 ## REVERSE ENGINEERING
