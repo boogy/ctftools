@@ -22,6 +22,7 @@ A list of tools for linux operating system that can be used in ctfs.
 2. [qira] (https://github.com/BinaryAnalysisPlatform/qira)
 3. [ltrace](http://linux.die.net/man/1/ltrace)
 4. [strace](http://linux.die.net/man/1/strace)
+5. [villoc](https://github.com/wapiflapi/villoc) heap visualisation tool
 
 
 ## REVERSE ENGINEERING
