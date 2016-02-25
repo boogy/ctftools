@@ -16,8 +16,7 @@ Links to online available ctf playgrounds
 
 # Cool links
 Link with cool content !
+
 1. [Security talks] (https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
 2. [Open security links] (https://www.youtube.com/channel/UCthV50MozQIfawL9a_g5rdg)
-
 3. [Shellcodes repos] (http://shell-storm.org/shellcode/)
