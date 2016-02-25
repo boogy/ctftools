@@ -13,7 +13,7 @@ export DEBIAN_FRONTEND=noninteractive
 apt-get -y -q install git sudo \
         python2.7 python-pip python-dev python3-pip python3-dev \
         tmux gdb gdb-multiarch foremost ipython stow build-essential \
-        ltrace strace socat tcpdump john hydra && \
+        ltrace strace socat tcpdump john hydra curl wget vim
 
 ## QEMU with MIPS/ARM - http://reverseengineering.stackexchange.com/questions/8829/cross-debugging-for-mips-elf-with-qemu-toolchain
 apt-get -y -q install qemu qemu-user qemu-user-static 'binfmt*' libc6-armhf-armel-cross debian-keyring debian-archive-keyring emdebian-archive-keyring
