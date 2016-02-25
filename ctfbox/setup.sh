@@ -1,4 +1,4 @@
-#!/usr/bin/env python
+#!/usr/bin/env bash
 
 ## create a user
 getent passwd ctf | useradd -m -s /bin/bash ctf
