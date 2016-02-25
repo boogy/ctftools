@@ -13,7 +13,7 @@ export DEBIAN_FRONTEND=noninteractive
 apt-get -y -q install git sudo \
         python2.7 python-pip python-dev python3-pip python3-dev \
         tmux gdb gdb-multiarch foremost ipython stow build-essential \
-        ltrace strace socat tcpdump john hydra curl wget vim
+        ltrace strace socat tcpdump john hydra && \
 
 ## QEMU with MIPS/ARM - http://reverseengineering.stackexchange.com/questions/8829/cross-debugging-for-mips-elf-with-qemu-toolchain
 apt-get -y -q install qemu qemu-user qemu-user-static 'binfmt*' libc6-armhf-armel-cross debian-keyring debian-archive-keyring emdebian-archive-keyring
@@ -175,6 +175,16 @@ cd /home/ctf/tools
 git clone https://github.com/JonathanSalwan/ROPgadget
 cd ROPgadget
 python setup.py install
+
+
+## Install Z3 Prover
+cd /home/ctf/tools
+git clone https://github.com/Z3Prover/z3.git
+cd z3
+python scripts/mk_make.py
+cd build
+make install
+python ../scripts/mk_make.py --python
 
 # cd /home/ctf/tools
 # git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
