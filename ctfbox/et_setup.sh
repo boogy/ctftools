@@ -1,29 +1,29 @@
 #!/bin/bash
 
+## create a user
+getent passwd ctf | sudo useradd -m -s /bin/bash ctf
+sudo chown -R ctf: /home/ctf && sudo chmod 4750 /home/ctf
+sudo mkdir -p /home/ctf/tools && sudo mkdir -p /etc/sudoeres.d/
+sudo echo "ctf ALL=(ALL) NOPASSWD:ALL" > /etc/sudoeres.d/ctf
+
 # Updates
 sudo apt-get -y update
 sudo apt-get -y upgrade
-
-sudo apt-get -y install python3-pip
-sudo apt-get -y install tmux
-sudo apt-get -y install gdb gdb-multiarch
-sudo apt-get -y install unzip
-sudo apt-get -y install foremost
-sudo apt-get -y install ipython
+DEBIAN_FRONTEND=noninteractive sudo apt-get -y -q install git sudo \
+        python2.7 python-pip python-dev python3-pip python3-dev \
+        tmux gdb gdb-multiarch foremost ipython stow build-essential \
+        ltrace strace socat tcpdump john hydra vim curl wget
 
 # QEMU with MIPS/ARM - http://reverseengineering.stackexchange.com/questions/8829/cross-debugging-for-mips-elf-with-qemu-toolchain
-sudo apt-get -y install qemu qemu-user qemu-user-static
-sudo apt-get -y install 'binfmt*'
-sudo apt-get -y install libc6-armhf-armel-cross
-sudo apt-get -y install debian-keyring
-sudo apt-get -y install debian-archive-keyring
-sudo apt-get -y install emdebian-archive-keyring
+sudo apt-get -y install qemu qemu-user qemu-user-static 'binfmt*' \
+    libc6-armhf-armel-cross debian-keyring \
+    debian-archive-keyring emdebian-archive-keyring
+
 tee /etc/apt/sources.list.d/emdebian.list << EOF
 deb http://mirrors.mit.edu/debian squeeze main
 deb http://www.emdebian.org/debian squeeze main
 EOF
-sudo apt-get -y install libc6-mipsel-cross
-sudo apt-get -y install libc6-arm-cross
+sudo apt-get -y install libc6-mipsel-cross libc6-arm-cross
 mkdir /etc/qemu-binfmt
 ln -s /usr/mipsel-linux-gnu /etc/qemu-binfmt/mipsel 
 ln -s /usr/arm-linux-gnueabihf /etc/qemu-binfmt/arm
@@ -34,19 +34,22 @@ sudo apt-get update
 sudo apt-get -y install python2.7 python-pip python-dev git
 sudo pip install --upgrade git+https://github.com/binjitsu/binjitsu.git
 
-cd
-mkdir tools
-cd tools
+cd /home/ctf
+mkdir -p /home/ctf/tools
 
 # Install pwndbg
+cd /home/ctf/tools
 git clone https://github.com/zachriggle/pwndbg
-echo "#source $(pwd)/pwndbg/gdbinit.py" >> ~/.gdbinit
+echo "#source ~/tools/pwndbg/gdbinit.py" >> ~/.gdbinit
 
-# Install pwndbg
+
+## Install peda
+cd /home/ctf/tools
 git clone https://github.com/longld/peda.git
-echo "source ~/tools/peda/peda.py" >> ~/.gdbinit
+echo "source ~/tools/peda/peda.py" >> /home/ctf/.gdbinit
 
 # Capstone for pwndbg
+cd /home/ctf/tools
 git clone https://github.com/aquynh/capstone
 cd capstone
 git checkout -t origin/next
@@ -58,12 +61,13 @@ sudo python3 setup.py install # Ubuntu 14.04+, GDB uses Python3
 sudo pip3 install pycparser # Use pip3 for Python3
 
 # Install radare2
+cd /home/ctf/tools
 git clone https://github.com/radare/radare2
 cd radare2
 ./sys/install.sh
 
 # Install binwalk
-cd 
+cd /home/ctf/tools
 git clone https://github.com/devttys0/binwalk
 cd binwalk
 sudo python setup.py install
@@ -71,7 +75,7 @@ sudo apt-get install squashfs-tools
 
 # Install Firmware-Mod-Kit
 sudo apt-get -y install git build-essential zlib1g-dev liblzma-dev python-magic
-cd ~/tools
+cd /home/ctf/tools
 wget https://firmware-mod-kit.googlecode.com/files/fmk_099.tar.gz
 tar xvf fmk_099.tar.gz
 rm fmk_099.tar.gz
@@ -83,23 +87,21 @@ make
 sudo pip2 uninstall capstone -y
 
 # Install correct capstone
-cd ~/tools/capstone/bindings/python
+cd /home/ctf/tools/capstone/bindings/python
 sudo python setup.py install
 
 # Personal config
-sudo sudo apt-get -y install stow
-cd /home/vagrant
-rm .bashrc
-git clone https://github.com/thebarbershopper/dotfiles
+cd /home/ctf
+git clone https://github.com/boogy/dotfiles.git
 
 # Install Angr
-cd /home/vagrant
+cd /home/ctf/tools
 sudo apt-get -y install python-dev libffi-dev build-essential virtualenvwrapper
 sudo pip install angr --upgrade
 
 # Install american-fuzzy-lop
 sudo apt-get -y install clang llvm
-cd ~/tools
+cd /home/ctf/tools
 wget --quiet http://lcamtuf.coredump.cx/afl/releases/afl-latest.tgz
 tar -xzvf afl-latest.tgz
 rm afl-latest.tgz
@@ -131,6 +133,7 @@ chmod 755 /bin/apktool
 chmod 755 /bin/apktool.jar
 
 # Install preeny
+cd /home/ctf/tools
 git clone --depth 1 https://github.com/zardus/preeny
 PATH=$PWD/../crosstool/bin:$PATH
 
@@ -153,11 +156,23 @@ sudo pip install Pillow
 sudo pip install r2pipe
 
 # Install angr-dev
-cd ~/tools
+cd /home/ctf/tools
 git clone https://github.com/angr/angr-dev
 cd angr-dev
 
 # Install ROPGadget
+cd /home/ctf/tools
 git clone https://github.com/JonathanSalwan/ROPgadget
 cd ROPgadget
 sudo python setup.py install
+
+## Install Z3 Prover
+cd /home/ctf/tools
+git clone https://github.com/Z3Prover/z3.git
+cd z3
+python scripts/mk_make.py
+cd build
+make install
+python ../scripts/mk_make.py --python
+
+
