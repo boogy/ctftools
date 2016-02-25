@@ -1,4 +1,4 @@
-#!/usr/bin/env bash
+#!/usr/bin/env python
 
 ## create a user
 getent passwd ctf | useradd -m -s /bin/bash ctf
@@ -176,9 +176,9 @@ git clone https://github.com/JonathanSalwan/ROPgadget
 cd ROPgadget
 python setup.py install
 
-cd /home/ctf/tools
-git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
-cd sqlmap-dev
-python setup.py install
+# cd /home/ctf/tools
+# git clone https://github.com/sqlmapproject/sqlmap.git sqlmap-dev
+# cd sqlmap-dev
+# python setup.py install
 
 
