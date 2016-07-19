@@ -77,6 +77,7 @@ A list of tools for linux operating system that can be used in ctfs.
 11. [Volatility](http://code.google.com/p/volatility/) a memory dump analysis tool
 12. [ExifTool] (http://www.sno.phy.queensu.ca/~phil/exiftool/) a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of file formats 
 13. [DEFT Linux] (http://www.deftlinux.net/) Digital Evidence & Forensics Toolkit Linux distribution
+14. [Android Package Inspector: Inspeckage](https://github.com/ac-pm/Inspeckage)
 
 
 ## CRYPTO:
