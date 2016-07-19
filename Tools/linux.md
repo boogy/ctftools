@@ -107,7 +107,7 @@ A list of tools for linux operating system that can be used in ctfs.
 5. [Some setup scripts for security research tools.](https://github.com/zardus/ctf-tools)
 6. [The Social-Engineer Toolkit (SET)](https://github.com/trustedsec/social-engineer-toolkit/)
 7. [Very Fast Network Logon Cracker: THC-Hydra](https://github.com/vanhauser-thc/thc-hydra)
-8. [[Pentesting Active Directory Environments: CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
+8. [Pentesting Active Directory Environments: CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
  
 ## Contributing
 Your contributions are always welcome!
