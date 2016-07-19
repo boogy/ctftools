@@ -59,6 +59,7 @@ A list of tools for linux operating system that can be used in ctfs.
 10. [ffmpeg](https://www.ffmpeg.org/download.html)
 11. [stepic](http://domnit.org/stepic/doc/)
 12. [atomicparsley](http://atomicparsley.sourceforge.net/)
+13. [flare-floss](https://github.com/fireeye/flare-floss) Obfuscated String Solver
 
 
 ## FORENSICS:
