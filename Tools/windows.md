@@ -44,6 +44,7 @@ A list of tools for windows operating system that can be used in ctfs.
 3. [PentestBox] (https://pentestbox.com/) PentestBox is a Portable Penetration Testing Distribution for Windows Environments  
 4. [Veil framework] (https://www.veil-framework.com/) Veil is a framework used to obfuscate code , comes handi when using for exemple metasploit venom
 5. [AD ACL Scanner](https://adaclscan.codeplex.com/) A tool with GUI used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory.
+6. [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
 
 # Contributing
 Your contributions are always welcome!
