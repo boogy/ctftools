@@ -31,7 +31,7 @@ A list of tools for windows operating system that can be used in ctfs.
 
 
 ## FORENSICS:
-1. [NONE]()
+1. [mimikittenz](https://github.com/putterpanda/mimikittenz) mimikittenz is a post-exploitation powershell tool that utilizes the Windows function ReadProcessMemory() in order to extract plain-text passwords from various target processes.
 
 
 ## CRYPTO:
