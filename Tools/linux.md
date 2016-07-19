@@ -45,6 +45,7 @@ A list of tools for linux operating system that can be used in ctfs.
 6. [Scapy] (http://secdev.org/projects/scapy/)
 7. [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) multi-use bash script for Linux systems to audit wireless networks.
 8. [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) Framework for Rogue Wi-Fi Access Point Attack
+9. [Automated Pentest Recon Scanner](https://n0where.net/automated-pentest-recon-scanner-sn1per/)
 
 ## STEGANOGRAPHY
 1. [OpenStego](http://www.openstego.info/)
