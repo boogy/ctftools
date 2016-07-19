@@ -36,6 +36,7 @@ A list of tools for linux operating system that can be used in ctfs.
 8. [swfScan](http://h30499.www3.hp.com/t5/SWFScan/SWFSCAN/m-p/6692476#M46) A flash reverser
 9. [angr](https://github.com/angr/angr) is a platform-agnostic binary analysis framework [documentation here](https://github.com/angr/angr-doc)
 
+
 ## NETWORKING
 1. [dsniff](http://monkey.org/~dugsong/dsniff/) dsniff is a collection of tools for network auditing and penetration testing.
 2. [ettercap](http://ettercap.github.io/ettercap/) Ettercap is a comprehensive suite for man in the middle attacks.
@@ -46,6 +47,7 @@ A list of tools for linux operating system that can be used in ctfs.
 7. [airgeddon](https://github.com/v1s1t0r1sh3r3/airgeddon) multi-use bash script for Linux systems to audit wireless networks.
 8. [WiFi-Pumpkin](https://github.com/P0cL4bs/WiFi-Pumpkin) Framework for Rogue Wi-Fi Access Point Attack
 9. [Automated Pentest Recon Scanner](https://github.com/1N3/Sn1per)
+
 
 ## STEGANOGRAPHY
 1. [OpenStego](http://www.openstego.info/)
@@ -98,6 +100,10 @@ A list of tools for linux operating system that can be used in ctfs.
 4. [Bizploit] (http://net-security.org/secworld.php?id=9354)  open source ERP penetration testing framework
 5. [Captipper] (https://github.com/omriher/CapTipper) CapTipper is a python tool to analyze, explore and revive HTTP malicious traffic.
 6. [Web Application Vulnerability Testing: ZAProxy](https://github.com/zaproxy/zaproxy/releases)
+
+## Shellcoding
+1. [Shell Exploit Generation: Shellsploit](https://github.com/b3mb4m/shellsploit-framework)
+
 
 ## MISC TOOLS/READINGS
 1. [pwntools](https://github.com/Gallopsled/pwntools) *python module*
