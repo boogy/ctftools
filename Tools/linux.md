@@ -117,6 +117,7 @@ A list of tools for linux operating system that can be used in ctfs.
 8. [Pentesting Active Directory Environments: CrackMapExec](https://github.com/byt3bl33d3r/CrackMapExec)
 9. [LDAP Based Active Directory Enumeration: AD-LDAP-Enum](https://github.com/CroweCybersecurity/ad-ldap-enum)
 10. [Powershell Penetration Testing Framework: Pentestly](https://github.com/praetorian-inc/pentestly)
+11. [Pupy](https://github.com/n1nj4sec/pupy) Pupy is an opensource, multi-platform (Windows, Linux, OSX, Android), multi function RAT (Remote Administration Tool) and post-exploitation tool mainly written in python. It features a all-in-memory execution guideline and leaves very low footprint. 
  
 ## Contributing
 Your contributions are always welcome!
