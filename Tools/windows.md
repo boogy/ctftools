@@ -48,6 +48,7 @@ A list of tools for windows operating system that can be used in ctfs.
 7. [PS>Attack](https://github.com/jaredhaight/psattack) A portable console aimed at making pentesting with PowerShell a little easier..
 8. [powercat](https://github.com/besimorhino/powercat) Netcat: The powershell version. (Powershell Version 2 and Later Supported).
 9. [Inveigh](https://github.com/Kevin-Robertson/Inveigh) Inveigh is a Windows PowerShell LLMNR/NBNS spoofer/man-in-the-middle tool designed to assist penetration testers that find themselves limited to a Windows system.
+10. [Empire](https://github.com/powershellempire/empire) Empire is a pure PowerShell post-exploitation agent built on cryptologically-secure communications and a flexible architecture.
 
 
 ## MISC TOOLS/READINGS
