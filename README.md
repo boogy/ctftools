@@ -29,4 +29,6 @@ Link with cool content !
 
 ## Cheat Sheets
 
+1.[Penetration Testing Cheat Sheets](https://highon.coffee/blog/cheat-sheet/)
+
 ![ReverseEngineeringMalwareCheetSheet](https://pbs.twimg.com/media/Cp0ahjeWEAAxazW.jpg:large)
