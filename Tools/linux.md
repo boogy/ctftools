@@ -1,4 +1,4 @@
-Linux tools for ctfs
+Linux tools
 ========================
 
 A list of tools for linux operating system that can be used in ctfs.
@@ -66,20 +66,18 @@ A list of tools for linux operating system that can be used in ctfs.
 
 
 ## FORENSICS:
-1. dd - unix/linux tool
-2. strings - unix/linux tool
-3. [scalpel](https://github.com/sleuthkit/scalpel)
-4. [TrID](http://mark0.net/soft-trid-e.html)
-5. [binwalk](http://binwalk.org/)
-6. [foremost](http://foremost.sourceforge.net/)
-7. [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
-8. [Digital Forensics Framework (DFF)](http://www.digital-forensic.org/download/) 
-9. [Computer Aided INvestigative Environment (CAINE) Linux forensics live distribution](http://www.caine-live.net/) Computer Aided INvestigative Environment is a Live GNU/Linux distribution which is aimed for digital forensics
-10. [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/download.php) open source digital forensics tool
-11. [Volatility](http://code.google.com/p/volatility/) a memory dump analysis tool
-12. [ExifTool] (http://www.sno.phy.queensu.ca/~phil/exiftool/) a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of file formats 
-13. [DEFT Linux] (http://www.deftlinux.net/) Digital Evidence & Forensics Toolkit Linux distribution
-14. [Android Package Inspector: Inspeckage](https://github.com/ac-pm/Inspeckage)
+1. [scalpel](https://github.com/sleuthkit/scalpel)
+2. [TrID](http://mark0.net/soft-trid-e.html)
+3. [binwalk](http://binwalk.org/)
+4. [foremost](http://foremost.sourceforge.net/)
+5. [ExifTool](http://www.sno.phy.queensu.ca/~phil/exiftool/)
+6. [Digital Forensics Framework (DFF)](http://www.digital-forensic.org/download/) 
+7. [Computer Aided INvestigative Environment (CAINE) Linux forensics live distribution](http://www.caine-live.net/) Computer Aided INvestigative Environment is a Live GNU/Linux distribution which is aimed for digital forensics
+8. [The Sleuth Kit (TSK)](http://www.sleuthkit.org/sleuthkit/download.php) open source digital forensics tool
+9. [Volatility](http://code.google.com/p/volatility/) a memory dump analysis tool
+10. [ExifTool] (http://www.sno.phy.queensu.ca/~phil/exiftool/) a platform-independent Perl library plus a command-line application for reading, writing and editing meta information in a wide variety of file formats 
+11. [DEFT Linux] (http://www.deftlinux.net/) Digital Evidence & Forensics Toolkit Linux distribution
+12. [Android Package Inspector: Inspeckage](https://github.com/ac-pm/Inspeckage)
 
 
 ## CRYPTO:
@@ -100,6 +98,7 @@ A list of tools for linux operating system that can be used in ctfs.
 4. [Bizploit] (http://net-security.org/secworld.php?id=9354)  open source ERP penetration testing framework
 5. [Captipper] (https://github.com/omriher/CapTipper) CapTipper is a python tool to analyze, explore and revive HTTP malicious traffic.
 6. [Web Application Vulnerability Testing: ZAProxy](https://github.com/zaproxy/zaproxy/releases)
+
 
 ## Shellcoding
 1. [Shell Exploit Generation: Shellsploit](https://github.com/b3mb4m/shellsploit-framework)
