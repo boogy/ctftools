@@ -1,4 +1,4 @@
-Windows tools for ctfs
+Windows tools
 ========================
 
 A list of tools for windows operating system that can be used in ctfs.
