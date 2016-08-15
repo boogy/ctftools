@@ -54,6 +54,7 @@ A list of tools for windows operating system that can be used in ctfs.
 1. [Peinjector] (https://github.com/JonDoNym/peinjector) auto-patch PE binaries that comes around.  
 3. [Veil framework] (https://www.veil-framework.com/) Veil is a framework used to obfuscate code , comes handi when using for exemple metasploit venom
 4. [AD ACL Scanner](https://adaclscan.codeplex.com/) A tool with GUI used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory.
+5. [PoshSec Framework](https://github.com/PoshSec/PoshSecFramework) The PoshSec Framework (or PSF) is a graphical front end utility for running PowerShell scripts, modules, and cmdlets. The PSF exposes parts of it's interface to PowerShell within the individualized PSessions. Each script or command that is executed is executed in a separate thread which allows you to run multiple scripts simultaneously.
 
 # Contributing
 Your contributions are always welcome!
