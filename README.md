@@ -1,5 +1,6 @@
 # ctftools
-Tools used or useful in ctfs
+Tools used or useful in ctfs and/or penetration testing engagements, forensic and all security related stuff
+
 # CTF links
 Links to popular CTF
 
