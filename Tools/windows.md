@@ -38,13 +38,22 @@ A list of tools for windows operating system that can be used in ctfs.
 1. [NONE]()
 
 
+## EXPLOITATION
+1. [PentestBox] (https://pentestbox.com/) PentestBox is a Portable Penetration Testing Distribution for Windows Environments.
+2. [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+3. [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) A set of powershell tools for penetration testers.
+4. [p0wnedShell](https://github.com/Cn33liz/p0wnedShell) PowerShell Runspace Post Exploitation Toolkit.
+5. [p0shKiller](https://github.com/Cn33liz/p0shKiller) Windows 10 PowerShell5 - Amsi/UAC Bypass/Backdoor/Exploit using DLL Hijacking.
+6. [Nishang](https://github.com/samratashok/nishang) Nishang is a framework and collection of scripts and payloads which enables usage of PowerShell for offensive security, penetration testing and red teaming.
+7. [PS>Attack](https://github.com/jaredhaight/psattack) A portable console aimed at making pentesting with PowerShell a little easier..
+8. [powercat](https://github.com/besimorhino/powercat) Netcat: The powershell version. (Powershell Version 2 and Later Supported).
+9. [Inveigh](https://github.com/Kevin-Robertson/Inveigh) Inveigh is a Windows PowerShell LLMNR/NBNS spoofer/man-in-the-middle tool designed to assist penetration testers that find themselves limited to a Windows system.
+
+
 ## MISC TOOLS/READINGS
 1. [Peinjector] (https://github.com/JonDoNym/peinjector) auto-patch PE binaries that comes around.  
-2. [PowerShellArsenal](https://github.com/mattifestation/PowerShellArsenal) A set of powershell tools for penetration testers.
-3. [PentestBox] (https://pentestbox.com/) PentestBox is a Portable Penetration Testing Distribution for Windows Environments  
-4. [Veil framework] (https://www.veil-framework.com/) Veil is a framework used to obfuscate code , comes handi when using for exemple metasploit venom
-5. [AD ACL Scanner](https://adaclscan.codeplex.com/) A tool with GUI used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory.
-6. [PowerSploit](https://github.com/PowerShellMafia/PowerSploit)
+3. [Veil framework] (https://www.veil-framework.com/) Veil is a framework used to obfuscate code , comes handi when using for exemple metasploit venom
+4. [AD ACL Scanner](https://adaclscan.codeplex.com/) A tool with GUI used to create reports of access control lists (DACLs) and system access control lists (SACLs) in Active Directory.
 
 # Contributing
 Your contributions are always welcome!
