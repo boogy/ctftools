@@ -15,6 +15,7 @@ A list of tools for linux operating system that can be used in ctfs.
 2. [wxHexEditor](http://www.wxhexeditor.org/download.php)
 3. [Free Online Flash Decoder / Decompiler](http://www.showmycode.com/)
 4. [checksec.sh](http://www.trapkit.de/tools/checksec.html) A bash script to detect security measures in a binary/kernel
+5. [flare-ida](https://github.com/fireeye/flare-ida) FLARE Team Reversing Repository
 
 
 ## DYNAMIC ANALYSIS TOOLS
