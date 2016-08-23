@@ -6,6 +6,7 @@ A list of tools for windows operating system that can be used in ctfs.
 ## STATIC ANALYSIS TOOLS
 1. [HxD](http://mh-nexus.de/en/hxd/)
 2. [Neo](http://www.new-hex-editor.com/hex-editor-downloads.html)
+3. [jRename](http://jrename.free.fr/) jRename is a free, cross-platform, java-based rename utility. It allow you to easily and effeciently rename a bunch of files. You can use lots of formating options, insert date informations, use a counter or filter and capture groups with regular expressions.
 
 
 ## DYNAMIC ANALYSIS TOOLS
