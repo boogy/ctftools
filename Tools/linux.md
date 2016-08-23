@@ -16,6 +16,7 @@ A list of tools for linux operating system that can be used in ctfs.
 3. [Free Online Flash Decoder / Decompiler](http://www.showmycode.com/)
 4. [checksec.sh](http://www.trapkit.de/tools/checksec.html) A bash script to detect security measures in a binary/kernel
 5. [flare-ida](https://github.com/fireeye/flare-ida) FLARE Team Reversing Repository
+6. [jRename](http://jrename.free.fr/) jRename is a free, cross-platform, java-based rename utility. It allow you to easily and effeciently rename a bunch of files. You can use lots of formating options, insert date informations, use a counter or filter and capture groups with regular expressions.
 
 
 ## DYNAMIC ANALYSIS TOOLS
