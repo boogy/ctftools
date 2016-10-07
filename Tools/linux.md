@@ -91,6 +91,7 @@ A list of tools for linux operating system that can be used in ctfs.
 6. [Modules for python - pycrypto](https://www.dlitz.net/software/pycrypto/)
 7. [fcrackzip](http://software.schmorp.de/pkg/fcrackzip.html)
 8. [cribdrag](https://github.com/SpiderLabs/cribdrag)
+9. [bruteforce-salted-openssl](https://github.com/glv2/bruteforce-salted-openssl)
  
 
 ## WEB
