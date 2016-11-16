@@ -101,6 +101,7 @@ A list of tools for linux operating system that can be used in ctfs.
 4. [Bizploit] (http://net-security.org/secworld.php?id=9354)  open source ERP penetration testing framework
 5. [Captipper] (https://github.com/omriher/CapTipper) CapTipper is a python tool to analyze, explore and revive HTTP malicious traffic.
 6. [Web Application Vulnerability Testing: ZAProxy](https://github.com/zaproxy/zaproxy/releases)
+7. [xssValidator](https://github.com/nVisium/xssValidator)
 
 
 ## Shellcoding
