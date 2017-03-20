@@ -17,7 +17,7 @@ Links to online available ctf playgrounds
 
 # CTFBOX
 Docker or Vagrant ctfbox setup with best tools for CTFs [ctfbox](https://github.com/boogy/ctfbox)
-
+Another great resource is the ctf-tools repo of [zardus](https://github.com/zardus/ctf-tools)
 
 # Cool links
 Link with cool content !
