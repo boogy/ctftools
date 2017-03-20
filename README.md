@@ -16,8 +16,8 @@ Links to online available ctf playgrounds
 3. [Over the wire] (http://overthewire.org/wargames/)
 
 # CTFBOX
-Docker or Vagrant ctfbox setup with best tools for CTFs [ctfbox](https://github.com/boogy/ctfbox)
-Another great resource is the ctf-tools repo of [zardus](https://github.com/zardus/ctf-tools)
+1. Docker or Vagrant ctfbox setup with best tools for CTFs [ctfbox](https://github.com/boogy/ctfbox)
+2. Another great resource is the ctf-tools repo of [zardus](https://github.com/zardus/ctf-tools)
 
 # Cool links
 Link with cool content !
